@@ -17,7 +17,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/bluekeyes/go-gitdiff/gitdiff"
+	"github.com/Infisical/go-gitdiff/gitdiff"
 )
 
 var (

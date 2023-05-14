@@ -21,4 +21,4 @@ issues:
 
 linter-settings:
   goimports:
-    local-prefixes: github.com/bluekeyes/go-gitdiff
+    local-prefixes: github.com/Infisical/go-gitdiff
